@@ -1,0 +1,40 @@
+{
+  "name": "Jane Builder",
+  "title": "Product Engineer",
+  "location": "Tokyo, Japan",
+  "contacts": [
+    "jane@example.com",
+    "https://github.com/janebuilder"
+  ],
+  "summary": "Product engineer who ships reliable internal tools, automation, and customer-facing web apps.",
+  "skills": [
+    "TypeScript",
+    "Node.js",
+    "React",
+    "PostgreSQL"
+  ],
+  "experience": [
+    {
+      "company": "Acme Tools",
+      "role": "Senior Product Engineer",
+      "period": "2023 - Present",
+      "bullets": [
+        "Reduced weekly reporting work from 4 hours to 20 minutes with a local automation workflow.",
+        "Created internal CLI tools used by support and operations teams."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Local QA Gate",
+      "summary": "A local CLI that checks AI-generated deliverables before client handoff."
+    }
+  ],
+  "education": [
+    {
+      "school": "Open University",
+      "degree": "B.S. Computer Science",
+      "period": "2018 - 2022"
+    }
+  ]
+}

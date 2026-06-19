@@ -1,0 +1,33 @@
+{
+  "name": "resume-wall-breaker",
+  "version": "0.1.0",
+  "description": "Generate ATS-friendly resumes locally from JSON. No paywall, login, or tracking.",
+  "type": "module",
+  "bin": {
+    "resume-wall-breaker": "./bin/resume-wall-breaker.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "examples",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "check": "npm test"
+  },
+  "keywords": [
+    "resume",
+    "cv",
+    "ats",
+    "local-first",
+    "cli",
+    "zero-dependency"
+  ],
+  "author": "ban10yuu",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
