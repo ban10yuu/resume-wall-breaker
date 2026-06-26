@@ -6,7 +6,7 @@ import { renderHtml, renderMarkdown } from "../src/render.js";
 
 const help = `resume-wall-breaker
 
-Generate ATS-friendly resumes locally from JSON.
+Generate ATS-friendly HTML and Markdown resumes from local JSON.
 
 Usage:
   resume-wall-breaker init resume.json
