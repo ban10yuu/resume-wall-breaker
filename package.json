@@ -1,7 +1,7 @@
 {
   "name": "resume-wall-breaker",
   "version": "0.1.0",
-  "description": "Generate ATS-friendly resumes locally from JSON. No paywall, login, or tracking.",
+  "description": "Generate ATS-friendly HTML and Markdown resumes from local JSON. No export paywall.",
   "type": "module",
   "bin": {
     "resume-wall-breaker": "./bin/resume-wall-breaker.js"
